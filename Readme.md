@@ -104,3 +104,7 @@ Continuamos com o CSS e exploramos outra maneira de utilizá-lo. Neste exercíci
 
 ## EX015:
 O terceiro modo é, "Estilos Externo" onde criamos um arquivo 'style.css' (que é o lugar onde criamos as marcações de estilo) e ai conectamos com nosso arquivo index.html com link css. Conectando os arquivos e assim podendo mudar com uita mais organização e menos trabalho.
+
+## EX016:
+Aprofundando-nos nos estilos, podemos iniciar a discussão sobre o modelo RGB (Red, Green, Blue), que representa as cores em pixels. Ao modificar as tonalidades desses componentes, podemos criar uma vasta gama de cores. Existem várias formas de representação, como intervalos de 0 a 255, códigos hexadecimais e nomes de cores. Isso é ilustrado no exemplo 016.
+
