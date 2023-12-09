@@ -96,15 +96,5 @@ A proposta desse desafio é aplicar o conhecimento adquirido sobre links e víde
 
 Usei 4 vídeos do "canal em vídeo" para cada vídeo precisei criar um arquivo expecifico para cada um. Afinal das contas, a estrutura é a mesma, o que muda é os links e as imagens.
 
-## EX013:
-Inicializando em CSS, como primeiro passo aprendemos o "Estilo Inline" (os estilos são feito na mesma linha) onde aplicamos as cores e estilos localmente em cada tag. Atenção: não é o melhor jeito, desse jeito polui seu código.
 
-## EX014:
-Continuamos com o CSS e exploramos outra maneira de utilizá-lo. Neste exercício, empregamos "Estilos Locais", onde no cabeçalho do nosso código utilizamos a tag 'style'. Em seguida, criamos marcações, como no exemplo de 'h1', e fechamos a chave. Tudo o que definirmos como estilo será aplicado a todos os elementos 'h1', ou seja, é uma abordagem mais prática do que anterior.
-
-## EX015:
-O terceiro modo é, "Estilos Externo" onde criamos um arquivo 'style.css' (que é o lugar onde criamos as marcações de estilo) e ai conectamos com nosso arquivo index.html com link css. Conectando os arquivos e assim podendo mudar com uita mais organização e menos trabalho.
-
-## EX016:
-Aprofundando-nos nos estilos, podemos iniciar a discussão sobre o modelo RGB (Red, Green, Blue), que representa as cores em pixels. Ao modificar as tonalidades desses componentes, podemos criar uma vasta gama de cores. Existem várias formas de representação, como intervalos de 0 a 255, códigos hexadecimais e nomes de cores. Isso é ilustrado no exemplo 016.
 
